@@ -45,12 +45,12 @@ public class Car {
         this.id = id;
     }
 
-    public String getName() {
+    public String getMake() {
         return make;
     }
 
-    public void setName(String name) {
-        this.make = name;
+    public void setMake(String make) {
+        this.make = make;
     }
 
     public String getModel() {
